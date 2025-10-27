@@ -1,0 +1,64 @@
+body {background-color: aquamarine;}
+
+.type1 {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+line-height: 5}
+
+.type2 {font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+line-height:5}
+
+.type3 {font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: normal;
+    line-height: 5
+}
+
+.type4 {font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+line-height: 5}
+
+.type5 {
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 154;
+  font-style: normal;
+}
+
+.type6 {
+    font-family: "BBH Sans Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    line-height: 5;
+ letter-spacing: 5px;}
+
+.type7 {
+    font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+  font-weight: 550;
+  font-style: normal;
+    line-height: 5;}
+
+.type8 {
+    font-family: "Rowdies", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+    line-height: 5
+    }
+
+.type9 {font-family: "Libertinus Keyboard", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    text-align: center;
+}
+
+.type10 {font-family: "Libertinus Keyboard", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    text-align: center;
+  }
