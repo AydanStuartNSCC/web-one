@@ -1,0 +1,31 @@
+body {background-image: url(../Images/background.jpg);}
+
+
+.img1 {
+    background-image:url(../Images/img1.jpg);
+    background-repeat:no-repeat;
+    width:400px;
+    height:350px;
+}
+
+.img2 {
+    background-image:url(../Images/img2.jpg);
+    background-size: 200px;
+    width:450px;
+    height:300px;
+}
+
+.img3 {
+    background-image: url(../Images/img3.jpg);
+    background-size:200px;
+    background-repeat:no-repeat;
+    background-position: right;
+    width:400px;
+    height:350px;
+    background-color:aqua
+}
+
+.img5 {object-fit: contain; object-position: bottom;
+background-color:green}
+
+img {display:block;}
